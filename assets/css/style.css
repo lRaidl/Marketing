@@ -1,0 +1,175 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Libre+Baskerville:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Francois+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+
+body{
+    background-image: url(../image/image1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+#fc{
+    width: 100%;
+    height: 950px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#lgi{
+    width: 10%;
+    height: 12%;
+}
+
+#tfc{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 15%;
+    color: black;
+}
+
+.ttc{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+}
+
+.tmc{
+    font-size: 50px;
+    font-family: 'Francois One', sans-serif;
+    letter-spacing: 6px;
+}
+
+.tbc{
+    font-size: 15px;
+}
+
+.bts{
+    background-color: rgba(0, 0, 0, 0.76);
+    color: white;
+    border: 0px;
+    border-radius: 50px;
+    width: 134px;
+    height: 41px;
+    margin-top: 15%;
+}
+ .bta{
+     color: white;
+     text-decoration: none;
+ }
+
+#menu{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(7, 146, 189);
+    color: white;
+}
+
+#op{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 80px 10px 10px;
+}
+
+#op:hover{
+    color: black;
+}
+
+#carousel{
+    width: 1920px;
+    height: 1080px;
+}
+
+.portada{
+    width: 1920px;
+    height: 1080px;
+}
+
+.tra{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height:400px;
+    width:1280px;
+    background:rgba(0, 0, 0, 0.61);
+    position:absolute;
+    color: white;
+}
+
+ #conocenos{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 10vh;
+} 
+.ctx{
+    width: 50vw;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+peq{
+    font-family: 'Francois One', sans-serif;
+    color: rgb(155, 155, 155);
+    border-bottom: 2px solid rgb(155, 155, 155);
+}
+
+init{
+    color: black;
+    font-size: 40px;
+    font-family: 'Francois One', sans-serif;
+}
+
+.ccd{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50vw;
+}
+
+.salt1{
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(124, 124, 124);
+    display:flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.img-content{
+    display: inline-flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.img-content span{
+    color: black;
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 30px;
+}
+
+.img-content otext{
+    color: black;
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 13px;
+}
+.icon-m{
+    width: 75px;
+    height: 75px;
+}
