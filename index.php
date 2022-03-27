@@ -59,9 +59,9 @@
         </div> -->
         <div id="conocenos">
             <div class="ctx">
-                <peq>¿Quienes somos?</peq>
+                <peq>¿QUIENES SOMOS?</peq>
                 <br>
-                <init>TU AGENCIA DE MARKETING</init>
+                <init>TU AGENCIA DE MARKETING</init>
                 <i class="las la-dog"></i>
                 <br>
                 <text>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</text>
@@ -99,9 +99,53 @@
             <div class='img-content'><img class='icon-m' src="assets/svg/hand.png" alt=""><span>45645</span><otext>RICOS NUEVOS</otext></div>
             <div class='img-content'><img class='icon-m' src="assets/svg/people.png" alt=""><span>9312</span><otext>EMPLEOS GENERADOS</otext></div>
             <div class='img-content'><img class='icon-m' src="assets/svg/worldwide.png" alt=""><span>1345</span><otext>OFICIONA GLOBALES</otext></div>
-            
-            
-            
+        </div>
+        <div id="hacemos">
+            <div class="ctx">
+                <peq>¿QUE HACEMOS?</peq>
+                <br>
+                <init>NUESTRO TRABAJO</init>
+            </div>
+            <br>
+            <div style='display:flex;limit-height'>
+                <div id="nti">
+                    <div class="cnti">
+                        <div><div class='circle'><img class='icon-c' src="assets/svg/like.png" alt=""></div></div>
+                        <div>
+                            <h4>DISEÑO MOVIL Y WEB</h4>
+                            <br>
+                            <span>Raw denim typewriter Carles irony. Helvetica farers Blue Bottle, distery vero you probably haven’t heard of them disrupt. Pariatur meh vegan ut.</span>
+                        </div>
+                    </div>
+                    <div class="cnti">
+                        <div><div class='circle'><img class='icon-c' src="assets/svg/like.png" alt=""></div></div>
+                        <div>
+                            <h4>BRANDING</h4>
+                            <br>
+                            <span>Raw denim typewriter Carles irony. Helvetica farers Blue Bottle, distery vero you probably haven’t heard of them disrupt. Pariatur meh vegan ut.</span>
+                        </div>
+                    </div>
+                    <div class="cnti">
+                        <div><div class='circle'><img class='icon-c' src="assets/svg/like.png" alt=""></div></div>
+                        <div>
+                            <h4>REDES SOCIALES</h4>
+                            <br>
+                            <span>Raw denim typewriter Carles irony. Helvetica farers Blue Bottle, distery vero you probably haven’t heard of them disrupt. Pariatur meh vegan ut.</span>
+                        </div>
+                    </div>
+                    <div class="cnti">
+                        <div><div class='circle'><img class='icon-c' src="assets/svg/like.png" alt=""></div></div>
+                        <div>
+                            <h4>E-COMMERCE</h4>
+                            <br>
+                            <span>Raw denim typewriter Carles irony. Helvetica farers Blue Bottle, distery vero you probably haven’t heard of them disrupt. Pariatur meh vegan ut.</span>
+                        </div>
+                    </div>
+                </div>
+                <div id="ntii">
+                    <img style='max-width:477px' src="assets/image/services-img.png" alt="">
+                </div>
+            </div>
         </div>
     </div>
 </div>

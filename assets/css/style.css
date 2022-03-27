@@ -4,7 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Francois+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
 
-
+h4{
+    margin-bottom: -25px;
+    font-family: cursive;
+}
 body{
     background-image: url(../image/image1.jpg) ;
     background-repeat: no-repeat;
@@ -172,4 +175,48 @@ init{
 .icon-m{
     width: 75px;
     height: 75px;
+}
+
+#hacemos{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 10vh;
+}
+
+#nti{
+    display: inline-flex;
+    flex-direction: column;
+    width: 50%;
+    align-content: space-around;
+    justify-content: space-around;
+}
+#ntii{
+    display: inline-flex;
+    flex-direction: column;
+    width: 50%;
+}
+.cnti{
+    display: flex;
+    align-items:center;
+}
+
+.circle{
+    background-color: aqua;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.icon-c{
+    width: 50px;
+    margin-bottom: 15px;
 }
